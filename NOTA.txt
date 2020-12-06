@@ -1,0 +1,7 @@
+NOMBRE DE LA BBDD:
+mymma
+
+USUARIO:
+root
+
+CONTRASEÑA:
